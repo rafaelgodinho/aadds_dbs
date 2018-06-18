@@ -11,5 +11,6 @@ First, you need to enable Azure Active Directory Domain Services on your subscri
 ## Databases
 Then, you need to configure the database to authenticate and/or authorize users from Azure Active Directory Domain Services. Below a list with the configuration for some well known databases:
 
+- [Couchbase Enterprise](couchbase.md)
 - [Microsoft SQL Server](sqlserver.md)
 - [MongoDB Enterprise](mongodb.md)
