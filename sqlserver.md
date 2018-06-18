@@ -7,7 +7,7 @@ The easiest way to use Microsoft SQL Server in Azure is to create a VM using the
 
 Once the VM is running, you can add it to the domain. Just start following [Step 2: Connect to the Windows Server virtual machine by using the local administrator account](https://docs.microsoft.com/en-us/azure/active-directory-domain-services/active-directory-ds-admin-guide-join-windows-vm-portal#step-2-connect-to-the-windows-server-virtual-machine-by-using-the-local-administrator-account). Do not follow Step 1, since the VM was already created using the SQL Server image from Azure Gallery.
 
-### SQL Server
+### SQL Server Configuration
 
 Now you need to configure the SQL Login for the domain user.
 
